@@ -54,3 +54,18 @@ sumar(1,2)
 sumar(3,7)
 sumar(25,6.333)
 sumar('abc','cba') // 'abccba'-> concatenar
+
+
+let color = 'red'
+let price = 123
+
+let colorAuto2 = 'blue'
+let priceAuto2 = 123456
+
+function start(){
+
+}
+
+function backward(){
+    
+}
