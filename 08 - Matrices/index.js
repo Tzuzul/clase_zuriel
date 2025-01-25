@@ -59,3 +59,7 @@ function cambiarFila(fila, numero, matriz){
 let matrizModificada = cambiarFila(0, 1, matriz4x5)
 console.log(matriz4x5)
 console.log(matrizModificada)
+
+let palabra = "shire"
+
+palabra.slice()
